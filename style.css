@@ -1,0 +1,29 @@
+.course-table {
+    border-spacing: 25px;
+    width: 50%;
+}
+
+.course-table.tr {
+    text-align: center;
+}
+
+.skills {
+	text-align: center ;
+}
+
+.achievements-list {
+	text-align: center;
+}
+
+#achievements-list {
+	list-style-type: none;
+}
+
+.courses {
+	text-align: center ;
+}
+
+.heading {
+	background-color: black;
+  	color:white; 
+}
